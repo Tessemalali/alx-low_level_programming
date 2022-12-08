@@ -4,7 +4,7 @@
 /**
  * main - Entry piont
  *
- * Retrun: 1 (Success)
+ * Retrun: 0 (Success)
  */
 
 int main(void)
