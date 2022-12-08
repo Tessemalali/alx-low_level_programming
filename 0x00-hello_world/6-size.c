@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/** Main - Entry Point
+/**
+ * Main - Entry Point
  *
  * Retrun: Always 0 (Success)
  */
